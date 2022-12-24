@@ -1,2 +1,2 @@
-# World_Weather_Analysis
+# WeatherPY
 module 6 using APIs
